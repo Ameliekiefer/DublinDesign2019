@@ -1,0 +1,31 @@
+.header{
+	height:200px;
+	background-color:black;
+	width:100%;
+}
+
+.main_wrapper{
+	height:500px;
+	width:100%;
+}
+
+.side{
+	height:500px;
+	background-color:purple;
+	width:20%;
+	float:left;
+}
+
+.main{
+	height:500px;
+	background-color:grey;
+	width:80%;
+	float:left;
+}
+
+.footer{
+	height:100px;
+	background-color:black;
+	width:100%;
+	
+}
